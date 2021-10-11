@@ -24,7 +24,7 @@ In a command or git bash window, run `python cart-pole.py`
 
 You should see the following window:
 
-![1 episode of cart and pole](https://github.com/skal-chin/Cart-and-Pole/blob/main/Images/cp_1.gif =250x)
+![1 episode of cart and pole](/Images/cp_1.gif =250x)
 
 ## Modify
 
