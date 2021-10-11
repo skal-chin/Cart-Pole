@@ -28,11 +28,18 @@ choose_action
 ----------------
     Parameters
     -----------
-        pole_angle -> the current state's pole angle
-        cart_vel   -> the current state's cart velocity
+        obs -> the observations given in the environment
 
     Variables
     -----------
+        cart_pos -> the cart's position
+
+        cart_vel -> the cart's velocity
+
+        pole_angle -> the angle of the pole
+
+        pole_angular_vel -> the pole's angular velocity
+        
         right_velocity_limit -> the cart velocity limit we are
                 restricting in the positive x direction.
 
